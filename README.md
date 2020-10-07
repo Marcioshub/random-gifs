@@ -4,7 +4,7 @@ Random gif finder using the giphy api. Written in React and using hooks.
 
 ## Installation
 
-Install react dependencies
+Install react dependencies for this project
 
 ```bash
 npm install
